@@ -7,7 +7,7 @@ Usage:
   
     $ node vrsksync send my_token my_directory
     
-    // So all changed files in this this directory will be sended to remote
+    // So all changed files in this this directory will be sent to remote
   
   - On remote:
   
